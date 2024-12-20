@@ -1,2 +1,2 @@
 nev:str = "Péter"
-print("Hello " + nev + "!")
+print(f"Hello {nev}!")
