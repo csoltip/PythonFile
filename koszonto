@@ -1,1 +1,3 @@
-print("Hello" + " Péter" + "!")
+print("Hello ", end="")
+print("Péter", end="")
+print("!")
