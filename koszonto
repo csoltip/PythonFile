@@ -1,3 +1,2 @@
-print("Hello ", end="")
-print("Péter", end="")
-print("!")
+nev:str = "Péter"
+print("Hello " + nev + "!")
